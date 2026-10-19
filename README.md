@@ -1,11 +1,12 @@
 # mac-spotify-trey-lyrics 🎵
 
-A simple, lightweight utility for macOS that streams synchronized Spotify lyrics directly into your top Menu Bar (Tray). 
+> A simple, lightweight utility for macOS that streams synchronized Spotify lyrics directly into your top Menu Bar (Tray).
+Lyrics provided by the open-source LRCLIB API.
 
 ## 🚀 | Installation
 
 ### Option A: Using `uv` (Recommended & Fastest)
-If you have [uv](https://github.com) installed, just run:
+If you have [uv](https://github.com/astral-sh/uv) installed, just run:
 
 ```bash
 uv run main.py
